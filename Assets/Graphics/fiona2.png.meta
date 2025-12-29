@@ -1,0 +1,6786 @@
+fileFormatVersion: 2
+guid: 58eb27be3e00f624da14c5c3a6f85200
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2081645316901090769
+    second: fiona2_0
+  - first:
+      213: -2681596112292978921
+    second: fiona2_1
+  - first:
+      213: -6311037800745732383
+    second: fiona2_2
+  - first:
+      213: 2093030197905826155
+    second: fiona2_3
+  - first:
+      213: -5271469594663377405
+    second: fiona2_4
+  - first:
+      213: -2976537931721382537
+    second: fiona2_5
+  - first:
+      213: 6007659484319634777
+    second: fiona2_6
+  - first:
+      213: 5518090929569196103
+    second: fiona2_7
+  - first:
+      213: -4978659382428740377
+    second: fiona2_8
+  - first:
+      213: 4237803714963659591
+    second: fiona2_9
+  - first:
+      213: 3880871021402360143
+    second: fiona2_10
+  - first:
+      213: 4221411123061621674
+    second: fiona2_11
+  - first:
+      213: -5048514601012565484
+    second: fiona2_12
+  - first:
+      213: 5065320833759653236
+    second: fiona2_13
+  - first:
+      213: 6438957970410228689
+    second: fiona2_14
+  - first:
+      213: -2713761855091177788
+    second: fiona2_15
+  - first:
+      213: -1758401999004538141
+    second: fiona2_16
+  - first:
+      213: -8147389930730130272
+    second: fiona2_17
+  - first:
+      213: 5360414892291558869
+    second: fiona2_18
+  - first:
+      213: 8470303128733078245
+    second: fiona2_19
+  - first:
+      213: -2250533269212575474
+    second: fiona2_20
+  - first:
+      213: -6089335936720000624
+    second: fiona2_21
+  - first:
+      213: -165339808164026495
+    second: fiona2_22
+  - first:
+      213: 6303002987787877959
+    second: fiona2_23
+  - first:
+      213: -6223838774680286249
+    second: fiona2_24
+  - first:
+      213: -8456540908307644599
+    second: fiona2_25
+  - first:
+      213: 314290350649573172
+    second: fiona2_26
+  - first:
+      213: 1005254548793738003
+    second: fiona2_27
+  - first:
+      213: 6286357287180048505
+    second: fiona2_28
+  - first:
+      213: 475216536743417387
+    second: fiona2_29
+  - first:
+      213: 7105425753581249003
+    second: fiona2_30
+  - first:
+      213: -7466222704886266727
+    second: fiona2_31
+  - first:
+      213: 3636788076953729708
+    second: fiona2_32
+  - first:
+      213: -7185461028386099007
+    second: fiona2_33
+  - first:
+      213: -8421756586179136409
+    second: fiona2_34
+  - first:
+      213: 8842608942040558892
+    second: fiona2_35
+  - first:
+      213: 6986964952752791614
+    second: fiona2_36
+  - first:
+      213: 2900149072106184830
+    second: fiona2_37
+  - first:
+      213: -1931756974195471186
+    second: fiona2_38
+  - first:
+      213: 600236765882445480
+    second: fiona2_39
+  - first:
+      213: 2068565851270014934
+    second: fiona2_40
+  - first:
+      213: -3856896109325591247
+    second: fiona2_41
+  - first:
+      213: -4593053944410058614
+    second: fiona2_42
+  - first:
+      213: 3225673686227628802
+    second: fiona2_43
+  - first:
+      213: -4742560935094676398
+    second: fiona2_44
+  - first:
+      213: 4830296857391249822
+    second: fiona2_45
+  - first:
+      213: -1941758647275005209
+    second: fiona2_46
+  - first:
+      213: 5949677546334467059
+    second: fiona2_47
+  - first:
+      213: 8398798924939105784
+    second: fiona2_48
+  - first:
+      213: 3666909677653347574
+    second: fiona2_49
+  - first:
+      213: -3311007707106297174
+    second: fiona2_50
+  - first:
+      213: -4325446461324138152
+    second: fiona2_51
+  - first:
+      213: 7602946014746755118
+    second: fiona2_52
+  - first:
+      213: 861774532167611401
+    second: fiona2_53
+  - first:
+      213: -8411446053874077171
+    second: fiona2_54
+  - first:
+      213: 3600949033820682825
+    second: fiona2_55
+  - first:
+      213: 2573534936220384169
+    second: fiona2_56
+  - first:
+      213: 5336524653660092846
+    second: fiona2_57
+  - first:
+      213: 1396721818666374765
+    second: fiona2_58
+  - first:
+      213: 2594348874079129075
+    second: fiona2_59
+  - first:
+      213: 1448028274982833821
+    second: fiona2_60
+  - first:
+      213: 1604930607775380352
+    second: fiona2_61
+  - first:
+      213: 7249836353810026176
+    second: fiona2_62
+  - first:
+      213: -9016726809338127269
+    second: fiona2_63
+  - first:
+      213: -5924333848580695015
+    second: fiona2_64
+  - first:
+      213: 3770417527824325125
+    second: fiona2_65
+  - first:
+      213: -8064847078621289298
+    second: fiona2_66
+  - first:
+      213: -3343183271781435981
+    second: fiona2_67
+  - first:
+      213: -7123501604838935784
+    second: fiona2_68
+  - first:
+      213: -2232658765493223494
+    second: fiona2_69
+  - first:
+      213: 5699237578457909084
+    second: fiona2_70
+  - first:
+      213: -6657676744267177884
+    second: fiona2_71
+  - first:
+      213: -933508091764031001
+    second: fiona2_72
+  - first:
+      213: -3279268417147429350
+    second: fiona2_73
+  - first:
+      213: 6928364546071397522
+    second: fiona2_74
+  - first:
+      213: -1730493919221529920
+    second: fiona2_75
+  - first:
+      213: -6399481905365294713
+    second: fiona2_76
+  - first:
+      213: 8562103136755296573
+    second: fiona2_77
+  - first:
+      213: -3919996034409774079
+    second: fiona2_78
+  - first:
+      213: -9164177906783533368
+    second: fiona2_79
+  - first:
+      213: -1053149224260832817
+    second: fiona2_80
+  - first:
+      213: 5289434938822898853
+    second: fiona2_81
+  - first:
+      213: -567459394747736460
+    second: fiona2_82
+  - first:
+      213: -5399643417477630333
+    second: fiona2_83
+  - first:
+      213: -4685279779474637224
+    second: fiona2_84
+  - first:
+      213: 3931667279936996867
+    second: fiona2_85
+  - first:
+      213: -940355220940027262
+    second: fiona2_86
+  - first:
+      213: -3405233009326870003
+    second: fiona2_87
+  - first:
+      213: 1944296696069860258
+    second: fiona2_88
+  - first:
+      213: -2733555857200359821
+    second: fiona2_89
+  - first:
+      213: 6071593263517013843
+    second: fiona2_90
+  - first:
+      213: 7229221477954206432
+    second: fiona2_91
+  - first:
+      213: 5777978475089262241
+    second: fiona2_92
+  - first:
+      213: 4250255605218539836
+    second: fiona2_93
+  - first:
+      213: -1105065601673655465
+    second: fiona2_94
+  - first:
+      213: -5306348070462940273
+    second: fiona2_95
+  - first:
+      213: 2021280345605279437
+    second: fiona2_96
+  - first:
+      213: 4175546005798387359
+    second: fiona2_97
+  - first:
+      213: 8498491275637188429
+    second: fiona2_98
+  - first:
+      213: -8769610212371715410
+    second: fiona2_99
+  - first:
+      213: 7552644810232900392
+    second: fiona2_100
+  - first:
+      213: -2317169850159935487
+    second: fiona2_101
+  - first:
+      213: -4998123448977765324
+    second: fiona2_102
+  - first:
+      213: -6065842074101460479
+    second: fiona2_103
+  - first:
+      213: 92890645134397280
+    second: fiona2_104
+  - first:
+      213: 3115830577828653536
+    second: fiona2_105
+  - first:
+      213: -711016789959786346
+    second: fiona2_106
+  - first:
+      213: -6371697512441106100
+    second: fiona2_107
+  - first:
+      213: 5104174614482564367
+    second: fiona2_108
+  - first:
+      213: -3192071376144558494
+    second: fiona2_109
+  - first:
+      213: -5096190483578334017
+    second: fiona2_110
+  - first:
+      213: -1736665599991067505
+    second: fiona2_111
+  - first:
+      213: 6885460672797732083
+    second: fiona2_112
+  - first:
+      213: -1188038806596053207
+    second: fiona2_113
+  - first:
+      213: -4645566353948153812
+    second: fiona2_114
+  - first:
+      213: -6837448679440026888
+    second: fiona2_115
+  - first:
+      213: -2711455295684259475
+    second: fiona2_116
+  - first:
+      213: -236166571987044756
+    second: fiona2_117
+  - first:
+      213: -8619315127003090241
+    second: fiona2_118
+  - first:
+      213: -8966574076814887809
+    second: fiona2_119
+  - first:
+      213: 3312712735262527956
+    second: fiona2_120
+  - first:
+      213: -3779324394598134695
+    second: fiona2_121
+  - first:
+      213: -81230528051091765
+    second: fiona2_122
+  - first:
+      213: -5875406707743878099
+    second: fiona2_123
+  - first:
+      213: 8627843864668330725
+    second: fiona2_124
+  - first:
+      213: -7019758732957656808
+    second: fiona2_125
+  - first:
+      213: -1446788474626296475
+    second: fiona2_126
+  - first:
+      213: 6653011983622106346
+    second: fiona2_127
+  - first:
+      213: 1913939062327809486
+    second: fiona2_128
+  - first:
+      213: 123987016066701177
+    second: fiona2_129
+  - first:
+      213: 8080775466487227008
+    second: fiona2_130
+  - first:
+      213: -3780656618520109576
+    second: fiona2_131
+  - first:
+      213: -3996578023539524228
+    second: fiona2_132
+  - first:
+      213: 172406284496431792
+    second: fiona2_133
+  - first:
+      213: 3546611674510962390
+    second: fiona2_134
+  - first:
+      213: 7212010849490551500
+    second: fiona2_135
+  - first:
+      213: 6988494873686068470
+    second: fiona2_136
+  - first:
+      213: -6687803328633861849
+    second: fiona2_137
+  - first:
+      213: 5514479901611996556
+    second: fiona2_138
+  - first:
+      213: -4514915789953361653
+    second: fiona2_139
+  - first:
+      213: 8304120709652185985
+    second: fiona2_140
+  - first:
+      213: 2191937157641364364
+    second: fiona2_141
+  - first:
+      213: -571550821471406607
+    second: fiona2_142
+  - first:
+      213: -2271227797467007675
+    second: fiona2_143
+  - first:
+      213: -1066110165287927180
+    second: fiona2_144
+  - first:
+      213: 7549590298617428288
+    second: fiona2_145
+  - first:
+      213: -1327897954127556593
+    second: fiona2_146
+  - first:
+      213: -3908461577048123175
+    second: fiona2_147
+  - first:
+      213: 2461289355897036174
+    second: fiona2_148
+  - first:
+      213: -3421969667281020556
+    second: fiona2_149
+  - first:
+      213: 4881009130693603494
+    second: fiona2_150
+  - first:
+      213: 4791536616406540927
+    second: fiona2_151
+  - first:
+      213: 2730954799503888098
+    second: fiona2_152
+  - first:
+      213: -3071188388198159110
+    second: fiona2_153
+  - first:
+      213: -6378754384102783255
+    second: fiona2_154
+  - first:
+      213: -7223194741637629840
+    second: fiona2_155
+  - first:
+      213: -5399370280958716871
+    second: fiona2_156
+  - first:
+      213: 5417734762245790706
+    second: fiona2_157
+  - first:
+      213: 8444201211539506136
+    second: fiona2_158
+  - first:
+      213: -2052374697965849203
+    second: fiona2_159
+  - first:
+      213: -1564424355541812540
+    second: fiona2_160
+  - first:
+      213: -4402027764102698301
+    second: fiona2_161
+  - first:
+      213: -3838498038647764108
+    second: fiona2_162
+  - first:
+      213: 1208224722022895088
+    second: fiona2_163
+  - first:
+      213: -6628260439602336496
+    second: fiona2_164
+  - first:
+      213: -5561381409683025436
+    second: fiona2_165
+  - first:
+      213: -8096113758566032354
+    second: fiona2_166
+  - first:
+      213: 2032526983263618811
+    second: fiona2_167
+  - first:
+      213: -5952021568678460313
+    second: fiona2_168
+  - first:
+      213: -3723781738164639680
+    second: fiona2_169
+  - first:
+      213: 1459954277700100556
+    second: fiona2_170
+  - first:
+      213: 1403082451007552201
+    second: fiona2_171
+  - first:
+      213: 2467688573380328075
+    second: fiona2_172
+  - first:
+      213: 718317081554473249
+    second: fiona2_173
+  - first:
+      213: 5617215961700047317
+    second: fiona2_174
+  - first:
+      213: 3859989036597401870
+    second: fiona2_175
+  - first:
+      213: 1843582028245524479
+    second: fiona2_176
+  - first:
+      213: 2894843917357214077
+    second: fiona2_177
+  - first:
+      213: 9205461116526258866
+    second: fiona2_178
+  - first:
+      213: -7262333487922477824
+    second: fiona2_179
+  - first:
+      213: 8586811553981321005
+    second: fiona2_180
+  - first:
+      213: -8834696177864596420
+    second: fiona2_181
+  - first:
+      213: -6229600689139552710
+    second: fiona2_182
+  - first:
+      213: 5701793564633470648
+    second: fiona2_183
+  - first:
+      213: 4998425558276892897
+    second: fiona2_184
+  - first:
+      213: 2858322021397286601
+    second: fiona2_185
+  - first:
+      213: -2621176484648792741
+    second: fiona2_186
+  - first:
+      213: 4027120809117454791
+    second: fiona2_187
+  - first:
+      213: -6949873198818337492
+    second: fiona2_188
+  - first:
+      213: 4563249316236154842
+    second: fiona2_189
+  - first:
+      213: -6477713465137351501
+    second: fiona2_190
+  - first:
+      213: 7817516460957326176
+    second: fiona2_191
+  - first:
+      213: 3026953895633853727
+    second: fiona2_192
+  - first:
+      213: -3581044027107770644
+    second: fiona2_193
+  - first:
+      213: 3907685518896449165
+    second: fiona2_194
+  - first:
+      213: -6698283598270116060
+    second: fiona2_195
+  - first:
+      213: 6389182335071623898
+    second: fiona2_196
+  - first:
+      213: 2238713580539572574
+    second: fiona2_197
+  - first:
+      213: 5958060405232515299
+    second: fiona2_198
+  - first:
+      213: -5612123291775812197
+    second: fiona2_199
+  - first:
+      213: 803165339708862965
+    second: fiona2_200
+  - first:
+      213: 5923477791433204281
+    second: fiona2_201
+  - first:
+      213: 2790028150665937574
+    second: fiona2_202
+  - first:
+      213: 5148384439549095955
+    second: fiona2_203
+  - first:
+      213: 5430353115148394187
+    second: fiona2_204
+  - first:
+      213: -4661104244380028262
+    second: fiona2_205
+  - first:
+      213: 2829939312961312928
+    second: fiona2_206
+  - first:
+      213: -1996725863012050134
+    second: fiona2_207
+  - first:
+      213: -8823938149865533939
+    second: fiona2_208
+  - first:
+      213: 5871603034290049972
+    second: fiona2_209
+  - first:
+      213: 5251402850240537635
+    second: fiona2_210
+  - first:
+      213: 5585502357178071003
+    second: fiona2_211
+  - first:
+      213: 2257755944704266215
+    second: fiona2_212
+  - first:
+      213: -5862503077582364820
+    second: fiona2_213
+  - first:
+      213: -1156669293308981659
+    second: fiona2_214
+  - first:
+      213: 4416879671536688231
+    second: fiona2_215
+  - first:
+      213: -3781219524257720875
+    second: fiona2_216
+  - first:
+      213: 3680676697829521968
+    second: fiona2_217
+  - first:
+      213: 4284564782284500345
+    second: fiona2_218
+  - first:
+      213: 4400174626226297191
+    second: fiona2_219
+  - first:
+      213: 5518100526213560708
+    second: fiona2_220
+  - first:
+      213: 1475770245949540942
+    second: fiona2_221
+  - first:
+      213: 4403842372321924856
+    second: fiona2_222
+  - first:
+      213: -8376124130604052633
+    second: fiona2_223
+  - first:
+      213: -4971517254717629262
+    second: fiona2_224
+  - first:
+      213: -1064017807813162610
+    second: fiona2_225
+  - first:
+      213: 4559678042962448540
+    second: fiona2_226
+  - first:
+      213: -4217339307711421872
+    second: fiona2_227
+  - first:
+      213: -2193567807175588291
+    second: fiona2_228
+  - first:
+      213: 9061492872429335402
+    second: fiona2_229
+  - first:
+      213: 3308703915304392569
+    second: fiona2_230
+  - first:
+      213: -1648306951310904313
+    second: fiona2_231
+  - first:
+      213: 5586717763217126415
+    second: fiona2_232
+  - first:
+      213: -8662618645030532052
+    second: fiona2_233
+  - first:
+      213: 6462234004609994100
+    second: fiona2_234
+  - first:
+      213: -5413071639801447628
+    second: fiona2_235
+  - first:
+      213: 6545674379398727425
+    second: fiona2_236
+  - first:
+      213: -7017834975215248998
+    second: fiona2_237
+  - first:
+      213: 4824406171639140596
+    second: fiona2_238
+  - first:
+      213: -968110762584485646
+    second: fiona2_239
+  - first:
+      213: 2232766324402814911
+    second: fiona2_240
+  - first:
+      213: 6903716833466669247
+    second: fiona2_241
+  - first:
+      213: -4604270611613059452
+    second: fiona2_242
+  - first:
+      213: 3214529772195542617
+    second: fiona2_243
+  - first:
+      213: 3437526312500012959
+    second: fiona2_244
+  - first:
+      213: -2073620642507435200
+    second: fiona2_245
+  - first:
+      213: 4821947575119541649
+    second: fiona2_246
+  - first:
+      213: -6106645564011902894
+    second: fiona2_247
+  - first:
+      213: 160957450309392199
+    second: fiona2_248
+  - first:
+      213: -6014094505398832318
+    second: fiona2_249
+  - first:
+      213: 8629827210906542708
+    second: fiona2_250
+  - first:
+      213: -119675421174400920
+    second: fiona2_251
+  - first:
+      213: 8641536885370586290
+    second: fiona2_252
+  - first:
+      213: 5508261566460775093
+    second: fiona2_253
+  - first:
+      213: -6651620310388489778
+    second: fiona2_254
+  - first:
+      213: 5111412502170786123
+    second: fiona2_255
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fiona2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a41c10d928c13e0800000000000000
+      internalID: -2081645316901090769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f55b72b8e09cad0800000000000000
+      internalID: -2681596112292978921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 595
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6fc7abe80ba68a0800000000000000
+      internalID: -6311037800745732383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 589
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61a75a20efeb0d10800000000000000
+      internalID: 2093030197905826155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 599
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30621d5455af7d6b0800000000000000
+      internalID: -5271469594663377405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 591
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775654f758631b6d0800000000000000
+      internalID: -2976537931721382537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 528
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955d066987e7f5350800000000000000
+      internalID: 6007659484319634777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748e64fd672349c40800000000000000
+      internalID: 5518090929569196103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 599
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e45ba47baf38eab0800000000000000
+      internalID: -4978659382428740377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 597
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b5d32a604bfca30800000000000000
+      internalID: 4237803714963659591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 591
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f498bc9d1af9bd530800000000000000
+      internalID: 3880871021402360143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 577
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa388f8ec07759a30800000000000000
+      internalID: 4221411123061621674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 597
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ae543f7b210f9b0800000000000000
+      internalID: -5048514601012565484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 591
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d21a90672ab4640800000000000000
+      internalID: 5065320833759653236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 591
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbc8f5b826cb5950800000000000000
+      internalID: 6438957970410228689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 591
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6094e88f7c65ad0800000000000000
+      internalID: -2713761855091177788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 600
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea6ff4c2b6e897e0800000000000000
+      internalID: -1758401999004538141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 584
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a47c345608aeee80800000000000000
+      internalID: -8147389930730130272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 601
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd80cf91f4046a40800000000000000
+      internalID: 5360414892291558869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 598
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2d30861df8c8570800000000000000
+      internalID: 8470303128733078245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 591
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09c26d5aef74c0e0800000000000000
+      internalID: -2250533269212575474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 597
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099a8cd6a355e7ba0800000000000000
+      internalID: -6089335936720000624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 601
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187e62b025894bdf0800000000000000
+      internalID: -165339808164026495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 591
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e725992d3c87750800000000000000
+      internalID: 6303002987787877959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 601
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db01e71c9b70a9a0800000000000000
+      internalID: -6223838774680286249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 591
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f73cb39d454aa80800000000000000
+      internalID: -8456540908307644599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 601
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ffcc2a8659c5400800000000000000
+      internalID: 314290350649573172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 591
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31342b1afa163fd00800000000000000
+      internalID: 1005254548793738003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 603
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9781e8965a0ad3750800000000000000
+      internalID: 6286357287180048505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 573
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b269bff1cee489600800000000000000
+      internalID: 475216536743417387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 601
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be16f14a31b8b9260800000000000000
+      internalID: 7105425753581249003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 597
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9944c45f106a26890800000000000000
+      internalID: -7466222704886266727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 601
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaf33acc77787230800000000000000
+      internalID: 3636788076953729708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 591
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c032afc34d184c90800000000000000
+      internalID: -7185461028386099007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 591
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7647cf75109ef1b80800000000000000
+      internalID: -8421756586179136409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_35
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 591
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d250e8bf147ba70800000000000000
+      internalID: 8842608942040558892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_36
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 251
+        width: 1067
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e302fe22b9fa6f060800000000000000
+      internalID: 6986964952752791614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_37
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 591
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70619627366f3820800000000000000
+      internalID: 2900149072106184830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 600
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac02b054450135e0800000000000000
+      internalID: -1931756974195471186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 595
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae6d8b8828745800800000000000000
+      internalID: 600236765882445480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 591
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e3779ea505bc10800000000000000
+      internalID: 2068565851270014934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 599
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ddf0c5c6d897ac0800000000000000
+      internalID: -3856896109325591247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_42
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 595
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a805b39c5c13240c0800000000000000
+      internalID: -4593053944410058614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_43
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 603
+        width: 52
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2033ce49025e3cc20800000000000000
+      internalID: 3225673686227628802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_44
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 603
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254990ae4f90f2eb0800000000000000
+      internalID: -4742560935094676398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_45
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 591
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99bd785669a80340800000000000000
+      internalID: 4830296857391249822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_46
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 601
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea51a55ccc7d05e0800000000000000
+      internalID: -1941758647275005209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_47
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 597
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f33265a430819250800000000000000
+      internalID: 5949677546334467059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_48
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 599
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f59dec9f178e8470800000000000000
+      internalID: 8398798924939105784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_49
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 595
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc48f77cea73e230800000000000000
+      internalID: 3666909677653347574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_50
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 591
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa39596800fc02d0800000000000000
+      internalID: -3311007707106297174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_51
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 548
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859edc15c5de8f3c0800000000000000
+      internalID: -4325446461324138152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_52
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 595
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c3774e17138960800000000000000
+      internalID: 7602946014746755118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_53
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 601
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90434520f53a5fb00800000000000000
+      internalID: 861774532167611401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_54
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 591
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d027977316a844b80800000000000000
+      internalID: -8411446053874077171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_55
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 591
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94afa2f411429f130800000000000000
+      internalID: 3600949033820682825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_56
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 597
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab397aa36807b320800000000000000
+      internalID: 2573534936220384169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_57
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 574
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9368cf5e42f0a40800000000000000
+      internalID: 5336524653660092846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_58
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 599
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6695ab0817226310800000000000000
+      internalID: 1396721818666374765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_59
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 593
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdcbe63e8af00420800000000000000
+      internalID: 2594348874079129075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_60
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 573
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec21b4b0e681410800000000000000
+      internalID: 1448028274982833821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_61
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 597
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0837a9d62ebd54610800000000000000
+      internalID: 1604930607775380352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_62
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 591
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce4f84a0c79c9460800000000000000
+      internalID: 7249836353810026176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_63
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 602
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cd8a45db62ed280800000000000000
+      internalID: -9016726809338127269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_64
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 591
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c5680d0c988cda0800000000000000
+      internalID: -5924333848580695015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_65
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a10e8d3c6335430800000000000000
+      internalID: 3770417527824325125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_66
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 597
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea46ee6bf48e31090800000000000000
+      internalID: -8064847078621289298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_67
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 533
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5707af680aa91d0800000000000000
+      internalID: -3343183271781435981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_68
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 591
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81376a6480d342d90800000000000000
+      internalID: -7123501604838935784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_69
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 591
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf3d129ea00401e0800000000000000
+      internalID: -2232658765493223494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_70
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 595
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c578a8ab162c71f40800000000000000
+      internalID: 5699237578457909084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_71
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 591
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4606394664e2b93a0800000000000000
+      internalID: -6657676744267177884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_72
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 593
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1c37326538b03f0800000000000000
+      internalID: -933508091764031001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_73
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 595
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e15c8bfb2bd72d0800000000000000
+      internalID: -3279268417147429350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_74
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 579
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2940ffab8de762060800000000000000
+      internalID: 6928364546071397522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2c3d2f2fc0cf7e0800000000000000
+      internalID: -1730493919221529920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781692cec197037a0800000000000000
+      internalID: -6399481905365294713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_77
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 567
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39ae8c5073b2d670800000000000000
+      internalID: 8562103136755296573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_78
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 581
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104c01030606999c0800000000000000
+      internalID: -3919996034409774079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c64fa76fbc42d080800000000000000
+      internalID: -9164177906783533368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc174704c567261f0800000000000000
+      internalID: -1053149224260832817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 542
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4341f5d09d76940800000000000000
+      internalID: 5289434938822898853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_82
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 427
+        width: 29
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e5a9fdfaaff18f0800000000000000
+      internalID: -567459394747736460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386387b9bec9015b0800000000000000
+      internalID: -5399643417477630333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 510
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ef71f3dda8afeb0800000000000000
+      internalID: -4685279779474637224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_85
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 528
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306cbab6f86109630800000000000000
+      internalID: 3931667279936996867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 527
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a8f25a8ef23f2f0800000000000000
+      internalID: -940355220940027262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0233a5ae9e2eb0d0800000000000000
+      internalID: -3405233009326870003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 401
+        width: 143
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aba5333b878bfa10800000000000000
+      internalID: 1944296696069860258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_89
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37652ed4e65701ad0800000000000000
+      internalID: -2733555857200359821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357169c87e1a24450800000000000000
+      internalID: 6071593263517013843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eab514d1aa535460800000000000000
+      internalID: 7229221477954206432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 479
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a67c8f5fc08f2050800000000000000
+      internalID: 5777978475089262241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39f9a144f0fbfa30800000000000000
+      internalID: 4250255605218539836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 466
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b0dbea0b40aa0f0800000000000000
+      internalID: -1105065601673655465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_95
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 461
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b1a7d4b801c56b0800000000000000
+      internalID: -5306348070462940273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_96
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 471
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce084fd3c70d0c10800000000000000
+      internalID: 2021280345605279437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ef9e228f482f930800000000000000
+      internalID: 4175546005798387359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d476c1bc9c4b0f570800000000000000
+      internalID: 8498491275637188429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 455
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa22f8a9f51c4680800000000000000
+      internalID: -8769610212371715410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 447
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b21a4707260d860800000000000000
+      internalID: 7552644810232900392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100d8f45c42c7dfd0800000000000000
+      internalID: -2317169850159935487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_102
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 423
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c4120543913aab0800000000000000
+      internalID: -4998123448977765324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_103
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 435
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102509595ccc1dba0800000000000000
+      internalID: -6065842074101460479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f4132bc830a4100800000000000000
+      internalID: 92890645134397280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9e6c3f667ad3b20800000000000000
+      internalID: 3115830577828653536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_106
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 415
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690cb152ff5f126f0800000000000000
+      internalID: -711016789959786346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_107
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 0
+        width: 27
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4135b20fde2397a0800000000000000
+      internalID: -6371697512441106100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05bccfc4cba5d640800000000000000
+      internalID: 5104174614482564367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_109
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 397
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2661637eefb73b3d0800000000000000
+      internalID: -3192071376144558494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_110
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 383
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4569681c1b649b0800000000000000
+      internalID: -5096190483578334017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 362
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c44ea86df16e7e0800000000000000
+      internalID: -1736665599991067505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 373
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fce70d40021e8f50800000000000000
+      internalID: 6885460672797732083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_113
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 367
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9279679fffc338fe0800000000000000
+      internalID: -1188038806596053207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28e96ca302a78fb0800000000000000
+      internalID: -4645566353948153812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2730407a08c11a0800000000000000
+      internalID: -6837448679440026888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61536446c9fe5ad0800000000000000
+      internalID: -2711455295684259475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_117
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66f3e801c7f8bcf0800000000000000
+      internalID: -236166571987044756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_118
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 337
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb274df1f8a026880800000000000000
+      internalID: -8619315127003090241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 284
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74f8335264509380800000000000000
+      internalID: -8966574076814887809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d15c346eae19fd20800000000000000
+      internalID: 3312712735262527956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_121
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 313
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c8201ac742d8bc0800000000000000
+      internalID: -3779324394598134695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_122
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 311
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6e89ed3496fdef0800000000000000
+      internalID: -81230528051091765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d249af18abc567ea0800000000000000
+      internalID: -5875406707743878099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_124
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ead61b58424cb770800000000000000
+      internalID: 8627843864668330725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_125
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 300
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819dc19ef9ec49e90800000000000000
+      internalID: -7019758732957656808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_126
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 279
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56535c83c89fbebe0800000000000000
+      internalID: -1446788474626296475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_127
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 287
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec6632662f345c50800000000000000
+      internalID: 6653011983622106346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_128
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 291
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec51bcbcf6daf8a10800000000000000
+      internalID: 1913939062327809486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_129
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 273
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9779a61c88d78b100800000000000000
+      internalID: 123987016066701177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082a9a5197ea42070800000000000000
+      internalID: 8080775466487227008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 519
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd116316d8688bc0800000000000000
+      internalID: -3780656618520109576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d3bcd567d4988c0800000000000000
+      internalID: -3996578023539524228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_133
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 259
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba64703a92846200800000000000000
+      internalID: 172406284496431792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_134
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 269
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deaa77f688183130800000000000000
+      internalID: 3546611674510962390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_135
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 254
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2c52028a5361460800000000000000
+      internalID: 7212010849490551500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_136
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 1185
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc42bc9f0f1cf060800000000000000
+      internalID: 6988494873686068470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_137
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7298a1d5e462033a0800000000000000
+      internalID: -6687803328633861849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c853d98e04e578c40800000000000000
+      internalID: 5514479901611996556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_139
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 237
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b091705920cc751c0800000000000000
+      internalID: -4514915789953361653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_140
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 245
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18388cec9c92e3370800000000000000
+      internalID: 8304120709652185985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_141
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 247
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8361334b335b6e10800000000000000
+      internalID: 2191937157641364364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_142
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 251
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f53d1b5e817118f0800000000000000
+      internalID: -571550821471406607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_143
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 249
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5457cf70a5afa70e0800000000000000
+      internalID: -2271227797467007675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_144
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 249
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4728492047a6431f0800000000000000
+      internalID: -1066110165287927180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_145
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 251
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049b3dc806885c860800000000000000
+      internalID: 7549590298617428288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_146
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 249
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f005242a8db529de0800000000000000
+      internalID: -1327897954127556593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_147
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 251
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d898c157ea52c9c0800000000000000
+      internalID: -3908461577048123175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_148
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 249
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d51b3f0a1482220800000000000000
+      internalID: 2461289355897036174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799d8dc7b8b280d0800000000000000
+      internalID: -3421969667281020556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_150
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a03e6491f3dcb340800000000000000
+      internalID: 4881009130693603494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_151
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 225
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72603d7a25fe7240800000000000000
+      internalID: 4791536616406540927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eec312cbec46e520800000000000000
+      internalID: 2730954799503888098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_153
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 207
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afce42bce62f065d0800000000000000
+      internalID: -3071188388198159110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_154
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 188
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6861a0fac1a77a0800000000000000
+      internalID: -6378754384102783255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078383117ae02cb90800000000000000
+      internalID: -7223194741637629840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93497a826559115b0800000000000000
+      internalID: -5399370280958716871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_157
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 173
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb12f6df09af2b40800000000000000
+      internalID: 5417734762245790706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_158
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 175
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d34cb93344df2570800000000000000
+      internalID: 8444201211539506136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_159
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 177
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85febd06108483e0800000000000000
+      internalID: -2052374697965849203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_160
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 179
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caf5f9565c0a4ae0800000000000000
+      internalID: -1564424355541812540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca604d421bd8e2c0800000000000000
+      internalID: -4402027764102698301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_162
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 167
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bcd5ffe5aeabac0800000000000000
+      internalID: -3838498038647764108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_163
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 163
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd0505bbf974c010800000000000000
+      internalID: 1208224722022895088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_164
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d6aba8f30b304a0800000000000000
+      internalID: -6628260439602336496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1d167c21102d2b0800000000000000
+      internalID: -5561381409683025436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_166
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 23
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cd48f7e63d4af80800000000000000
+      internalID: -8096113758566032354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_167
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 125
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf603d1c58cf43c10800000000000000
+      internalID: 2032526983263618811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_168
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 145
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764057f1beb266da0800000000000000
+      internalID: -5952021568678460313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0482c931d38725cc0800000000000000
+      internalID: -3723781738164639680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_170
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 131
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc160ae2eacc24410800000000000000
+      internalID: 1459954277700100556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab3ea2e00c87310800000000000000
+      internalID: 1403082451007552201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aff90eeadfe3220800000000000000
+      internalID: 2467688573380328075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12156227499f7f900800000000000000
+      internalID: 718317081554473249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_174
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d919c7e72c54fd40800000000000000
+      internalID: 5617215961700047317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e095a43e39f619530800000000000000
+      internalID: 3859989036597401870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_176
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 62
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff5ed34618b59910800000000000000
+      internalID: 1843582028245524479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_177
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79e64e843d8c2820800000000000000
+      internalID: 2894843917357214077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_178
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 29
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bae734ec1e50cf70800000000000000
+      internalID: 9205461116526258866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_179
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 11
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00505f39b22073b90800000000000000
+      internalID: -7262333487922477824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_180
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 7
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc64c0d9b7a2770800000000000000
+      internalID: 8586811553981321005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_181
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3421eb62aad46580800000000000000
+      internalID: -8834696177864596420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_182
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eee47dd230c89a0800000000000000
+      internalID: -6229600689139552710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_183
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b61692a907d02f40800000000000000
+      internalID: 5701793564633470648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_184
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8e35dff89fd5540800000000000000
+      internalID: 4998425558276892897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_185
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cecf030cbccaa720800000000000000
+      internalID: 2858322021397286601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_186
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 31
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dc6e2ffd5bf9bd0800000000000000
+      internalID: -2621176484648792741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_187
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 30
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1970f0a0533e730800000000000000
+      internalID: 4027120809117454791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_188
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ddc6ec5271d8f90800000000000000
+      internalID: -6949873198818337492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_189
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7dcc3731be35f30800000000000000
+      internalID: 4563249316236154842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_190
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 3
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b439b18ce98a16a0800000000000000
+      internalID: -6477713465137351501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_191
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b51216dc56d7c60800000000000000
+      internalID: 7817516460957326176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_192
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d9db4d786e10a20800000000000000
+      internalID: 3026953895633853727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_193
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceef4373e639d4ec0800000000000000
+      internalID: -3581044027107770644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_194
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 11
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86c2cf8643ea3630800000000000000
+      internalID: 3907685518896449165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_195
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fc8407e8aea03a0800000000000000
+      internalID: -6698283598270116060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_196
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada152f7b7feaa850800000000000000
+      internalID: 6389182335071623898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_197
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5177e9e322811f10800000000000000
+      internalID: 2238713580539572574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_198
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 17
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e834341f584fa250800000000000000
+      internalID: 5958060405232515299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_199
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 17
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9db106b99bbd12b0800000000000000
+      internalID: -5612123291775812197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_200
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1b0410f9a652b00800000000000000
+      internalID: 803165339708862965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_201
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932aa49daab643250800000000000000
+      internalID: 5923477791433204281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_202
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a288c122db28b620800000000000000
+      internalID: 2790028150665937574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_203
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310f876de5cb27740800000000000000
+      internalID: 5148384439549095955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_204
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce1b51136d7c5b40800000000000000
+      internalID: 5430353115148394187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_205
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92b9a4a26e605fb0800000000000000
+      internalID: -4661104244380028262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_206
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d8fcbfc6f54720800000000000000
+      internalID: 2829939312961312928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_207
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bd45d18643a44e0800000000000000
+      internalID: -1996725863012050134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_208
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e4f3101031b8580800000000000000
+      internalID: -8823938149865533939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_209
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 21
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d6f0c9df1c7150800000000000000
+      internalID: 5871603034290049972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_210
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 21
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324af05b11bb0e840800000000000000
+      internalID: 5251402850240537635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_211
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7b4b3fcc0b38d40800000000000000
+      internalID: 5585502357178071003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_212
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efcf91d119255f10800000000000000
+      internalID: 2257755944704266215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_213
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f9116038434aea0800000000000000
+      internalID: -5862503077582364820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_214
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e47b1f76fa2ffe0800000000000000
+      internalID: -1156669293308981659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_215
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 16
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c969dd8a8eb4d30800000000000000
+      internalID: 4416879671536688231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_216
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5d8de50e8668bc0800000000000000
+      internalID: -3781219524257720875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_217
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03abf23a4f3641330800000000000000
+      internalID: 3680676697829521968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_218
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d673908f4d57b30800000000000000
+      internalID: 4284564782284500345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_219
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769d7e9628f801d30800000000000000
+      internalID: 4400174626226297191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_220
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489fad3413b349c40800000000000000
+      internalID: 5518100526213560708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_221
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 15
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ac9ef383dfa7410800000000000000
+      internalID: 1475770245949540942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_222
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6df091e479d1d30800000000000000
+      internalID: 4403842372321924856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_223
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f84c85b7702cb80800000000000000
+      internalID: -8376124130604052633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_224
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc94d5a56f910bb0800000000000000
+      internalID: -4971517254717629262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_225
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e894b92f079db31f0800000000000000
+      internalID: -1064017807813162610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_226
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90dce8950b374f30800000000000000
+      internalID: 4559678042962448540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_227
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052a19a7e300975c0800000000000000
+      internalID: -4217339307711421872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_228
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 13
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36019e83b1ee81e0800000000000000
+      internalID: -2193567807175588291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_229
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6372e3f1c3e0cd70800000000000000
+      internalID: 9061492872429335402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_230
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97799a24ea0eaed20800000000000000
+      internalID: 3308703915304392569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_231
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 3
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7047e469f890029e0800000000000000
+      internalID: -1648306951310904313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_232
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 0
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04fbe8b432088d40800000000000000
+      internalID: 5586717763217126415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_233
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c87462d3238c780800000000000000
+      internalID: -8662618645030532052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_234
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d8a3cb6977ea950800000000000000
+      internalID: 6462234004609994100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_235
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bb4e5f508e0e4b0800000000000000
+      internalID: -5413071639801447628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_236
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107cf67ea28e6da50800000000000000
+      internalID: 6545674379398727425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_237
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a999bf9a544ab9e90800000000000000
+      internalID: -7017834975215248998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_238
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0d0c03adbb3f240800000000000000
+      internalID: 4824406171639140596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_239
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 7
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f05be404649092f0800000000000000
+      internalID: -968110762584485646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_240
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbffb7074216cfe10800000000000000
+      internalID: 2232766324402814911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_241
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb85aa0f1edeecf50800000000000000
+      internalID: 6903716833466669247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_242
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4867801f5485a10c0800000000000000
+      internalID: -4604270611613059452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_243
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956f1a7ebcd4c9c20800000000000000
+      internalID: 3214529772195542617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_244
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 0
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f972f9ae7fb84bf20800000000000000
+      internalID: 3437526312500012959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_245
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 7
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0435d6c13050933e0800000000000000
+      internalID: -2073620642507435200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_246
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1957e8495cffae240800000000000000
+      internalID: 4821947575119541649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_247
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 3
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2580bd3c636d04ba0800000000000000
+      internalID: -6106645564011902894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_248
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747d4a1c2f5db3200800000000000000
+      internalID: 160957450309392199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_249
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243f21059e4a98ca0800000000000000
+      internalID: -6014094505398832318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_250
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472a513202e43c770800000000000000
+      internalID: 8629827210906542708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_251
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868fd88a6d3d65ef0800000000000000
+      internalID: -119675421174400920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_252
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 7
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b403fd2308ece770800000000000000
+      internalID: 8641536885370586290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_253
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac4dee5b6417c40800000000000000
+      internalID: 5508261566460775093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_254
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 7
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1458ac192b0b3a0800000000000000
+      internalID: -6651620310388489778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiona2_255
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49516cd6926fe640800000000000000
+      internalID: 5111412502170786123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fiona2_0: -2081645316901090769
+      fiona2_1: -2681596112292978921
+      fiona2_10: 3880871021402360143
+      fiona2_100: 7552644810232900392
+      fiona2_101: -2317169850159935487
+      fiona2_102: -4998123448977765324
+      fiona2_103: -6065842074101460479
+      fiona2_104: 92890645134397280
+      fiona2_105: 3115830577828653536
+      fiona2_106: -711016789959786346
+      fiona2_107: -6371697512441106100
+      fiona2_108: 5104174614482564367
+      fiona2_109: -3192071376144558494
+      fiona2_11: 4221411123061621674
+      fiona2_110: -5096190483578334017
+      fiona2_111: -1736665599991067505
+      fiona2_112: 6885460672797732083
+      fiona2_113: -1188038806596053207
+      fiona2_114: -4645566353948153812
+      fiona2_115: -6837448679440026888
+      fiona2_116: -2711455295684259475
+      fiona2_117: -236166571987044756
+      fiona2_118: -8619315127003090241
+      fiona2_119: -8966574076814887809
+      fiona2_12: -5048514601012565484
+      fiona2_120: 3312712735262527956
+      fiona2_121: -3779324394598134695
+      fiona2_122: -81230528051091765
+      fiona2_123: -5875406707743878099
+      fiona2_124: 8627843864668330725
+      fiona2_125: -7019758732957656808
+      fiona2_126: -1446788474626296475
+      fiona2_127: 6653011983622106346
+      fiona2_128: 1913939062327809486
+      fiona2_129: 123987016066701177
+      fiona2_13: 5065320833759653236
+      fiona2_130: 8080775466487227008
+      fiona2_131: -3780656618520109576
+      fiona2_132: -3996578023539524228
+      fiona2_133: 172406284496431792
+      fiona2_134: 3546611674510962390
+      fiona2_135: 7212010849490551500
+      fiona2_136: 6988494873686068470
+      fiona2_137: -6687803328633861849
+      fiona2_138: 5514479901611996556
+      fiona2_139: -4514915789953361653
+      fiona2_14: 6438957970410228689
+      fiona2_140: 8304120709652185985
+      fiona2_141: 2191937157641364364
+      fiona2_142: -571550821471406607
+      fiona2_143: -2271227797467007675
+      fiona2_144: -1066110165287927180
+      fiona2_145: 7549590298617428288
+      fiona2_146: -1327897954127556593
+      fiona2_147: -3908461577048123175
+      fiona2_148: 2461289355897036174
+      fiona2_149: -3421969667281020556
+      fiona2_15: -2713761855091177788
+      fiona2_150: 4881009130693603494
+      fiona2_151: 4791536616406540927
+      fiona2_152: 2730954799503888098
+      fiona2_153: -3071188388198159110
+      fiona2_154: -6378754384102783255
+      fiona2_155: -7223194741637629840
+      fiona2_156: -5399370280958716871
+      fiona2_157: 5417734762245790706
+      fiona2_158: 8444201211539506136
+      fiona2_159: -2052374697965849203
+      fiona2_16: -1758401999004538141
+      fiona2_160: -1564424355541812540
+      fiona2_161: -4402027764102698301
+      fiona2_162: -3838498038647764108
+      fiona2_163: 1208224722022895088
+      fiona2_164: -6628260439602336496
+      fiona2_165: -5561381409683025436
+      fiona2_166: -8096113758566032354
+      fiona2_167: 2032526983263618811
+      fiona2_168: -5952021568678460313
+      fiona2_169: -3723781738164639680
+      fiona2_17: -8147389930730130272
+      fiona2_170: 1459954277700100556
+      fiona2_171: 1403082451007552201
+      fiona2_172: 2467688573380328075
+      fiona2_173: 718317081554473249
+      fiona2_174: 5617215961700047317
+      fiona2_175: 3859989036597401870
+      fiona2_176: 1843582028245524479
+      fiona2_177: 2894843917357214077
+      fiona2_178: 9205461116526258866
+      fiona2_179: -7262333487922477824
+      fiona2_18: 5360414892291558869
+      fiona2_180: 8586811553981321005
+      fiona2_181: -8834696177864596420
+      fiona2_182: -6229600689139552710
+      fiona2_183: 5701793564633470648
+      fiona2_184: 4998425558276892897
+      fiona2_185: 2858322021397286601
+      fiona2_186: -2621176484648792741
+      fiona2_187: 4027120809117454791
+      fiona2_188: -6949873198818337492
+      fiona2_189: 4563249316236154842
+      fiona2_19: 8470303128733078245
+      fiona2_190: -6477713465137351501
+      fiona2_191: 7817516460957326176
+      fiona2_192: 3026953895633853727
+      fiona2_193: -3581044027107770644
+      fiona2_194: 3907685518896449165
+      fiona2_195: -6698283598270116060
+      fiona2_196: 6389182335071623898
+      fiona2_197: 2238713580539572574
+      fiona2_198: 5958060405232515299
+      fiona2_199: -5612123291775812197
+      fiona2_2: -6311037800745732383
+      fiona2_20: -2250533269212575474
+      fiona2_200: 803165339708862965
+      fiona2_201: 5923477791433204281
+      fiona2_202: 2790028150665937574
+      fiona2_203: 5148384439549095955
+      fiona2_204: 5430353115148394187
+      fiona2_205: -4661104244380028262
+      fiona2_206: 2829939312961312928
+      fiona2_207: -1996725863012050134
+      fiona2_208: -8823938149865533939
+      fiona2_209: 5871603034290049972
+      fiona2_21: -6089335936720000624
+      fiona2_210: 5251402850240537635
+      fiona2_211: 5585502357178071003
+      fiona2_212: 2257755944704266215
+      fiona2_213: -5862503077582364820
+      fiona2_214: -1156669293308981659
+      fiona2_215: 4416879671536688231
+      fiona2_216: -3781219524257720875
+      fiona2_217: 3680676697829521968
+      fiona2_218: 4284564782284500345
+      fiona2_219: 4400174626226297191
+      fiona2_22: -165339808164026495
+      fiona2_220: 5518100526213560708
+      fiona2_221: 1475770245949540942
+      fiona2_222: 4403842372321924856
+      fiona2_223: -8376124130604052633
+      fiona2_224: -4971517254717629262
+      fiona2_225: -1064017807813162610
+      fiona2_226: 4559678042962448540
+      fiona2_227: -4217339307711421872
+      fiona2_228: -2193567807175588291
+      fiona2_229: 9061492872429335402
+      fiona2_23: 6303002987787877959
+      fiona2_230: 3308703915304392569
+      fiona2_231: -1648306951310904313
+      fiona2_232: 5586717763217126415
+      fiona2_233: -8662618645030532052
+      fiona2_234: 6462234004609994100
+      fiona2_235: -5413071639801447628
+      fiona2_236: 6545674379398727425
+      fiona2_237: -7017834975215248998
+      fiona2_238: 4824406171639140596
+      fiona2_239: -968110762584485646
+      fiona2_24: -6223838774680286249
+      fiona2_240: 2232766324402814911
+      fiona2_241: 6903716833466669247
+      fiona2_242: -4604270611613059452
+      fiona2_243: 3214529772195542617
+      fiona2_244: 3437526312500012959
+      fiona2_245: -2073620642507435200
+      fiona2_246: 4821947575119541649
+      fiona2_247: -6106645564011902894
+      fiona2_248: 160957450309392199
+      fiona2_249: -6014094505398832318
+      fiona2_25: -8456540908307644599
+      fiona2_250: 8629827210906542708
+      fiona2_251: -119675421174400920
+      fiona2_252: 8641536885370586290
+      fiona2_253: 5508261566460775093
+      fiona2_254: -6651620310388489778
+      fiona2_255: 5111412502170786123
+      fiona2_26: 314290350649573172
+      fiona2_27: 1005254548793738003
+      fiona2_28: 6286357287180048505
+      fiona2_29: 475216536743417387
+      fiona2_3: 2093030197905826155
+      fiona2_30: 7105425753581249003
+      fiona2_31: -7466222704886266727
+      fiona2_32: 3636788076953729708
+      fiona2_33: -7185461028386099007
+      fiona2_34: -8421756586179136409
+      fiona2_35: 8842608942040558892
+      fiona2_36: 6986964952752791614
+      fiona2_37: 2900149072106184830
+      fiona2_38: -1931756974195471186
+      fiona2_39: 600236765882445480
+      fiona2_4: -5271469594663377405
+      fiona2_40: 2068565851270014934
+      fiona2_41: -3856896109325591247
+      fiona2_42: -4593053944410058614
+      fiona2_43: 3225673686227628802
+      fiona2_44: -4742560935094676398
+      fiona2_45: 4830296857391249822
+      fiona2_46: -1941758647275005209
+      fiona2_47: 5949677546334467059
+      fiona2_48: 8398798924939105784
+      fiona2_49: 3666909677653347574
+      fiona2_5: -2976537931721382537
+      fiona2_50: -3311007707106297174
+      fiona2_51: -4325446461324138152
+      fiona2_52: 7602946014746755118
+      fiona2_53: 861774532167611401
+      fiona2_54: -8411446053874077171
+      fiona2_55: 3600949033820682825
+      fiona2_56: 2573534936220384169
+      fiona2_57: 5336524653660092846
+      fiona2_58: 1396721818666374765
+      fiona2_59: 2594348874079129075
+      fiona2_6: 6007659484319634777
+      fiona2_60: 1448028274982833821
+      fiona2_61: 1604930607775380352
+      fiona2_62: 7249836353810026176
+      fiona2_63: -9016726809338127269
+      fiona2_64: -5924333848580695015
+      fiona2_65: 3770417527824325125
+      fiona2_66: -8064847078621289298
+      fiona2_67: -3343183271781435981
+      fiona2_68: -7123501604838935784
+      fiona2_69: -2232658765493223494
+      fiona2_7: 5518090929569196103
+      fiona2_70: 5699237578457909084
+      fiona2_71: -6657676744267177884
+      fiona2_72: -933508091764031001
+      fiona2_73: -3279268417147429350
+      fiona2_74: 6928364546071397522
+      fiona2_75: -1730493919221529920
+      fiona2_76: -6399481905365294713
+      fiona2_77: 8562103136755296573
+      fiona2_78: -3919996034409774079
+      fiona2_79: -9164177906783533368
+      fiona2_8: -4978659382428740377
+      fiona2_80: -1053149224260832817
+      fiona2_81: 5289434938822898853
+      fiona2_82: -567459394747736460
+      fiona2_83: -5399643417477630333
+      fiona2_84: -4685279779474637224
+      fiona2_85: 3931667279936996867
+      fiona2_86: -940355220940027262
+      fiona2_87: -3405233009326870003
+      fiona2_88: 1944296696069860258
+      fiona2_89: -2733555857200359821
+      fiona2_9: 4237803714963659591
+      fiona2_90: 6071593263517013843
+      fiona2_91: 7229221477954206432
+      fiona2_92: 5777978475089262241
+      fiona2_93: 4250255605218539836
+      fiona2_94: -1105065601673655465
+      fiona2_95: -5306348070462940273
+      fiona2_96: 2021280345605279437
+      fiona2_97: 4175546005798387359
+      fiona2_98: 8498491275637188429
+      fiona2_99: -8769610212371715410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
