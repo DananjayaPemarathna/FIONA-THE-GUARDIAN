@@ -1,61 +1,79 @@
-# FIONA-THE-GUARDIAN 🎮
+# 🛡️ FIONA-THE-GUARDIAN
 
-A **Unity 2D Level 1 demo** (portfolio project).  
-A simple action/defense game where the player protects an important object while defeating enemies.
+> **A Unity 2D Action/Defense Game (Portfolio Project)**
+
+**FIONA-THE-GUARDIAN** is a fast-paced 2D level demo where the player must balance offense and defense. Your mission is simple but challenging: protect a vital object from waves of incoming enemies while keeping yourself alive.
+
+This project demonstrates core game development concepts in Unity, including health systems, UI management, cutscene integration, and finite state machines for gameplay flow.
+
+---
+
+## 📖 About the Game
+
+In this Level 1 demo, players step into the shoes of a guardian. You aren't just fighting for your own survival; you must defend a strategic objective. As you defeat enemies, you build up a "Super Power" meter. Once fully charged, you can unleash a devastating ability that triggers a cinematic cutscene to clear the level.
 
 ---
 
 ## 🔥 Key Features
-- **2D player movement + attack**
-- **Enemy spawning + kill counter**
-- **Health system**
-  - Player Health Bar
-  - Object-to-Protect Health Bar
-- **Game Over system**
-  - Triggers when player OR protected object dies
-  - Game Over UI (Restart / Quit)
-- **Pause Menu**
-  - Press **ESC** to open pause menu
-  - Resume / Main Menu / Quit
-- **Super Power System**
-  - Super Power bar fills based on kills
-  - When full: shows “Super Power Ready”
-  - Press **F** to activate and play the cutscene
-- **Cutscene / Video**
-  - Plays after Super Power activation
-  - Sends player back to Main Menu after video ends
-- **Audio System**
-  - Background music + SFX (jump, attack, explode, game over)
+
+* **⚔️ Action-Packed Gameplay:** Smooth 2D player movement with jump and attack mechanics.
+* **🛡️ Dual Health System:**
+    * **Player Health:** Monitor your own vitality.
+    * **Objective Health:** Protect the "Object-to-Protect" at all costs.
+* **💀 Game Over Logic:** The game ends if *either* the player dies OR the protected object is destroyed.
+* **🔋 Super Power System:**
+    * Fill the power bar by defeating enemies.
+    * **Visual Cue:** UI displays "Super Power Ready" when the bar is full.
+    * **Cinematic Finish:** Activate to trigger a video cutscene and win the level.
+* **⏸️ Complete UI Flow:**
+    * **Pause Menu:** Seamlessly pause, resume, or quit.
+    * **Game Over Screen:** Options to Restart or Quit.
+* **🔊 Immersive Audio:** Background music and sound effects for jumping, attacking, and explosions.
 
 ---
 
 ## 🎮 Controls
-- **A / D** or **← / →** : Move
-- **Space** : Jump
-- **Left Mouse Click** : Attack
-- **ESC** : Pause Menu
-- **F** : Activate Super Power (when ready)
+
+| Action | Key |
+| :--- | :--- |
+| **Move Left** | `A` or `←` |
+| **Move Right** | `D` or `→` |
+| **Jump** | `Space` |
+| **Attack** | `Left Mouse Click` |
+| **Super Power** | `F` (When Ready) |
+| **Pause Game** | `ESC` |
 
 ---
 
 ## 🛠️ Tech Stack
-- **Unity** (2D)
-- **C#**
-- **TextMeshPro**
-- **Unity UI (Slider, Panels, Buttons)**
-- **Unity VideoPlayer**
+
+* **Engine:** Unity (2D)
+* **Language:** C#
+* **UI:** Unity UI (Sliders, Panels, Buttons), TextMeshPro
+* **Media:** Unity VideoPlayer (for cutscenes)
 
 ---
 
 ## 📂 Project Structure
-Main folders:
-- `Assets/` → Scripts, scenes, UI, audio, sprites
-- `Packages/`
-- `ProjectSettings/`
+
+* `Assets/` - Contains all Scripts, Scenes, Animations, UI Prefabs, Audio, and Sprites.
+* `Packages/` - Unity package dependencies.
+* `ProjectSettings/` - Input and Project configurations.
 
 ---
 
 ## 🚀 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/DananajyaPemarathna/FIONA-THE-GUARDIAN.git
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/DananajyaPemarathna/FIONA-THE-GUARDIAN.git](https://github.com/DananajyaPemarathna/FIONA-THE-GUARDIAN.git)
+    ```
+2.  Open **Unity Hub**.
+3.  Click **Add** and select the cloned folder.
+4.  Open the project (Recommended Unity Version: 2022.3 LTS or later).
+5.  Navigate to `Assets/Scenes` and open the **MainMenu** or **Level1** scene.
+6.  Press **Play**!
+
+---
+
+*Created by Dananajya Pemarathna*
