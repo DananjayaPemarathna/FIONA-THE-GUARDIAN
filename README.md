@@ -91,7 +91,6 @@ In this Level 1 demo, players step into the shoes of a guardian. You aren't just
   <img src="Screenshots/cutscene.png" width="600">
 </p>
 
-
 ---
 
 ## 👨‍💻 About the Developer
@@ -107,7 +106,7 @@ I am constantly learning and building new things. Feel free to check out my othe
 
 * 🌐 **GitHub:** [DananajyaPemarathna](https://github.com/DananajyaPemarathna)
 * 📧 **Contact:** mr.dananjayapemarathna@gmail.com
-* 💼 **LinkedIn:** www.linkedin.com/in/dananjaya-pemarathna
+* 💼 **LinkedIn:** [Dananjaya Pemarathna](https://www.linkedin.com/in/dananjaya-pemarathna)
 
 ---
 *Created by Dananajya Pemarathna*
