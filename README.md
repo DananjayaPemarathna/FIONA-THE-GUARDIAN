@@ -76,4 +76,22 @@ In this Level 1 demo, players step into the shoes of a guardian. You aren't just
 
 ---
 
+---
+
+## 👨‍💻 About the Developer
+
+**Dananajya Pemarathna**
+
+I am a passionate Game Developer with a keen interest in Unity (C#) and 3D Modeling. This project, **FIONA-THE-GUARDIAN**, was created as a portfolio piece to demonstrate my skills in:
+* Implementing 2D Physics and Movement.
+* Managing Game States (Game Over, Pause, Win).
+* Creating interactive UI and Cutscene integration.
+
+I am constantly learning and building new things. Feel free to check out my other repositories!
+
+* 🌐 **GitHub:** [DananajyaPemarathna](https://github.com/DananajyaPemarathna)
+* 📧 **Contact:** [mr.dananjayapemarathna@gmail.com]
+* 💼 **LinkedIn:** [www.linkedin.com/in/dananjaya-pemarathna]
+
+---
 *Created by Dananajya Pemarathna*
