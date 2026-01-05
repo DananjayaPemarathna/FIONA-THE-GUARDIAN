@@ -106,8 +106,8 @@ I am a passionate Game Developer with a keen interest in Unity (C#) and 3D Model
 I am constantly learning and building new things. Feel free to check out my other repositories!
 
 * 🌐 **GitHub:** [DananajyaPemarathna](https://github.com/DananajyaPemarathna)
-* 📧 **Contact:** [mr.dananjayapemarathna@gmail.com]
-* 💼 **LinkedIn:** [www.linkedin.com/in/dananjaya-pemarathna]
+* 📧 **Contact:** mr.dananjayapemarathna@gmail.com
+* 💼 **LinkedIn:** www.linkedin.com/in/dananjaya-pemarathna
 
 ---
 *Created by Dananajya Pemarathna*
