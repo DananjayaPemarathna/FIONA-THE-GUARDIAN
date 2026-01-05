@@ -1,17 +1,9 @@
-using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
-using UnityEngine.Video;
+using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+using UnityEngine.Video;
 
-/// <summary>
-/// Central UI Manager (Singleton-style) responsible for:
-/// - Updating health UI (Player + Object to Protect)
-/// - Tracking level timer and kill count
-/// - Handling Game Over and Level Complete states
-/// - Playing an ending cutscene (VideoPlayer) and returning to Main Menu
-/// - Providing public button functions for UI buttons (Restart, Quit, Main Menu)
-/// </summary>
 public class UI : MonoBehaviour
 {
     public static UI instance;
@@ -39,66 +31,67 @@ public class UI : MonoBehaviour
     public GameObject cutsceneCanvas;
     public VideoPlayer videoPlayer;
 
-    // Runtime tracking
+    [Header("Super Power UI")]
+    public Slider superPowerSlider;
+    public GameObject superPowerReadyText;   // ✅ stays GameObject (your current setup)
+    public int killsToFillSuperPower = 15;
+
     private int enemiesKilled = 0;
     private float timeElapsed;
     private bool levelEnded = false;
 
+    private bool superPowerReady = false;
+
+    public bool IsLevelEnded => levelEnded;
+
     private void Awake()
     {
-        // Basic singleton pattern:
-        // Ensures there is a globally accessible UI instance in the scene.
         if (instance == null) instance = this;
     }
 
     private void Start()
     {
-        // Initial UI state setup
         if (gameOverUI != null) gameOverUI.SetActive(false);
         if (cutsceneCanvas != null) cutsceneCanvas.SetActive(false);
         if (inGameUI != null) inGameUI.SetActive(true);
 
-        // Ensure background music restarts correctly when reloading scenes.
-        RestartMusic();
-
-        // Resume game time (important if coming from paused states)
         Time.timeScale = 1f;
 
-        // Initialize stats UI
+        enemiesKilled = 0;
+        timeElapsed = 0f;
+        levelEnded = false;
+
         UpdateKillCountUI();
 
-        // Load and display saved player name (fallback to "GUARDIAN" if not found)
         string savedName = PlayerPrefs.GetString("SavedPlayerName", "GUARDIAN");
-        if (playerNameText != null)
-        {
-            playerNameText.text = savedName;
-        }
-    }
+        if (playerNameText != null) playerNameText.text = savedName;
 
-    /// <summary>
-    /// Restarts any looping audio sources that are currently not playing.
-    /// Useful when a scene reload stops some AudioSources unexpectedly.
-    /// </summary>
-    void RestartMusic()
-    {
-        AudioSource[] allAudio = FindObjectsByType<AudioSource>(FindObjectsSortMode.None);
-        foreach (AudioSource audio in allAudio)
-        {
-            if (audio.loop && !audio.isPlaying)
-            {
-                audio.Play();
-            }
-        }
+        // ✅ Super power start state
+        superPowerReady = false;
+
+        if (superPowerSlider != null)
+            superPowerSlider.value = 0f;
+
+        if (superPowerReadyText != null)
+            superPowerReadyText.SetActive(false); // ✅ hidden at start
     }
 
     private void Update()
     {
-        // Once the level ends (win/lose), stop updating timer and other runtime UI.
         if (levelEnded) return;
 
-        // Track elapsed time and format it as M:SS
-        timeElapsed += Time.deltaTime;
+        // ✅ Activate superpower only when ready
+        if (superPowerReady && Input.GetKeyDown(KeyCode.F))
+        {
+            if (superPowerReadyText != null)
+                superPowerReadyText.SetActive(false);
 
+            LevelComplete();
+            return;
+        }
+
+        // Timer
+        timeElapsed += Time.deltaTime;
         if (timerText != null)
         {
             int minutes = Mathf.FloorToInt(timeElapsed / 60F);
@@ -107,28 +100,18 @@ public class UI : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// Updates the Player health bar using normalized values (0 to 1).
-    /// </summary>
     public void UpdatePlayerHealth(float currentHealth, float maxHealth)
     {
         if (playerHealthSlider != null)
             playerHealthSlider.value = currentHealth / maxHealth;
     }
 
-    /// <summary>
-    /// Updates the protected object health bar using normalized values (0 to 1).
-    /// </summary>
     public void UpdateObjectHealth(float currentHealth, float maxHealth)
     {
         if (objectHealthSlider != null)
             objectHealthSlider.value = currentHealth / maxHealth;
     }
 
-    /// <summary>
-    /// Increments kill count and checks win condition.
-    /// Called from Enemy.Die().
-    /// </summary>
     public void AddKillCount()
     {
         if (levelEnded) return;
@@ -136,129 +119,94 @@ public class UI : MonoBehaviour
         enemiesKilled++;
         UpdateKillCountUI();
 
-        // Trigger level complete when kill target is reached.
-        if (enemiesKilled >= enemiesToWin)
+        float fill = (float)enemiesKilled / killsToFillSuperPower;
+        fill = Mathf.Clamp01(fill);
+
+        if (superPowerSlider != null)
+            superPowerSlider.value = fill;
+
+        // ✅ show READY only when FULL
+        if (!superPowerReady && fill >= 1f)
         {
-            LevelComplete();
+            superPowerReady = true;
+
+            if (superPowerReadyText != null)
+                superPowerReadyText.SetActive(true);
         }
     }
 
-    /// <summary>
-    /// Refreshes the kill count label (e.g., "5 / 25").
-    /// </summary>
     void UpdateKillCountUI()
     {
         if (killCountText != null)
             killCountText.text = enemiesKilled + " / " + enemiesToWin;
     }
 
-    /// <summary>
-    /// Handles level completion:
-    /// - Disables Player and all active enemies
-    /// - Stops background audio (except the cutscene video player's audio)
-    /// - Hides in-game UI
-    /// - Pauses time and plays ending cutscene video
-    /// - Returns to main menu when the video finishes
-    /// </summary>
+    public void TriggerGameOver()
+    {
+        if (levelEnded) return;
+        levelEnded = true;
+
+        if (AudioManager.instance != null)
+            AudioManager.instance.PlayGameOverSFX();
+
+        if (gameOverUI != null)
+            gameOverUI.SetActive(true);
+
+        Time.timeScale = 0f;
+    }
+
     public void LevelComplete()
     {
         if (levelEnded) return;
         levelEnded = true;
 
-        // Disable player on win.
         if (player != null) player.SetActive(false);
 
-        // Disable all enemies remaining in the scene (prevents frozen/bugged enemies staying visible).
         Enemy[] allEnemies = FindObjectsByType<Enemy>(FindObjectsSortMode.None);
         foreach (Enemy enemy in allEnemies)
-        {
             enemy.gameObject.SetActive(false);
-        }
 
-        // Stop all background audio sources (except the cutscene's own audio source, if any).
-        AudioSource[] allAudioSources = FindObjectsByType<AudioSource>(FindObjectsSortMode.None);
-        foreach (AudioSource audio in allAudioSources)
-        {
-            if (videoPlayer != null && audio.gameObject != videoPlayer.gameObject)
-            {
-                audio.Stop();
-            }
-        }
-
-        // Hide gameplay UI.
         if (inGameUI != null) inGameUI.SetActive(false);
 
-        // Pause the game world during cutscene.
         Time.timeScale = 0f;
 
-        // If cutscene is configured, play it. Otherwise, fallback to main menu.
         if (cutsceneCanvas != null && videoPlayer != null)
         {
             cutsceneCanvas.SetActive(true);
-
-            // Subscribe before/after play to ensure we capture end event reliably.
-            videoPlayer.loopPointReached += OnVideoEnd;
             videoPlayer.Play();
+            videoPlayer.loopPointReached += OnVideoEnd;
         }
         else
         {
             GoToMainMenu();
         }
+        // ✅ Stop background music when cutscene starts
+        if (AudioManager.instance != null)
+            AudioManager.instance.StopMusic();
+
     }
 
-    /// <summary>
-    /// Called automatically when the VideoPlayer reaches its end.
-    /// </summary>
     void OnVideoEnd(VideoPlayer vp)
     {
         vp.loopPointReached -= OnVideoEnd;
         GoToMainMenu();
     }
 
-    // -----------------------------
-    // BUTTON FUNCTIONS (UI Buttons)
-    // -----------------------------
-
-    /// <summary>
-    /// Loads the Main Menu scene.
-    /// </summary>
     public void GoToMainMenu()
     {
-        // Always restore time scale when leaving paused states.
         Time.timeScale = 1f;
         SceneManager.LoadScene("MainMenu");
     }
 
-    /// <summary>
-    /// Restarts the current level.
-    /// </summary>
     public void RestartGame()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
-    /// <summary>
-    /// Quits the application (works in build, not in Unity Editor).
-    /// </summary>
     public void QuitGame()
     {
         Application.Quit();
-        Debug.Log("Game Quit!"); // Visible in Editor only.
-    }
-
-    /// <summary>
-    /// Enables the Game Over UI and pauses gameplay.
-    /// Called when the Player or ObjectToProtect dies.
-    /// </summary>
-    public void EnableGameOverUI()
-    {
-        if (levelEnded) return;
-        levelEnded = true;
-
-        if (gameOverUI != null) gameOverUI.SetActive(true);
-
-        // Pause gameplay on game over.
-        Time.timeScale = 0f;
+        Debug.Log("Game Quit!");
     }
 }

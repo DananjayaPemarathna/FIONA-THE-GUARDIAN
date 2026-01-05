@@ -93,5 +93,8 @@ public class Enemy : Entity
         {
             UI.instance.AddKillCount();
         }
+        if (UI.instance != null)
+            UI.instance.AddKillCount();
+
     }
 }
