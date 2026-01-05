@@ -91,8 +91,6 @@ In this Level 1 demo, players step into the shoes of a guardian. You aren't just
   <img src="Screenshots/cutscene.png" width="600">
 </p>
 
----
----
 
 ---
 
