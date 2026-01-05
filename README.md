@@ -76,6 +76,24 @@ In this Level 1 demo, players step into the shoes of a guardian. You aren't just
 
 ---
 
+## 📸 Screenshots
+
+| Main Menu | Gameplay Action |
+| :---: | :---: |
+| ![Main Menu](Screenshots/main-menu.png) | ![Gameplay](Screenshots/gameplay-1.png) |
+
+| Pause Menu | Game Over |
+| :---: | :---: |
+| ![Pause Menu](Screenshots/pause-menu.png) | ![Game Over](Screenshots/game-over.png) |
+
+<p align="center">
+  <b>✨ Cinematic Cutscene ✨</b><br>
+  <img src="Screenshots/cutscene.png" width="600">
+</p>
+
+---
+---
+
 ---
 
 ## 👨‍💻 About the Developer
